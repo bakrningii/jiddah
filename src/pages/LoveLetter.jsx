@@ -42,6 +42,11 @@ const LoveLetter = () => {
             name: "Simple Abubakar 😀",
             msg: "Since our first conversation, you’ve been the quiet spark that has lightened everything in my world, turning ordinary days into moments that feel beautifully meant to be. I wake up everyday feeling lucky to have you in life. It still feels unreal, and sometimes I wake up feeling like there is no way i am this lucky in life, but Alhamdulliah for life, which of the favors of my Lord would I deny? Suratu Nahl, Ayah 18: 'And if you should count the favors of Allah, you could not enumerate them'.",
         },
+         {
+            id: 9,
+            name: "Prayerful Abubu 🤲🏻",
+            msg: "May Allah bless you abundantly, protect you, keep you steadfast in your deen and grant you what's best for you in this world and the next, and may He make me a part of it all. May Allah grant you and your loved ones Al-Jannatul Firdaus. May Allah take away all the sadness that dims the Noor in your eyes, may He grant you happinnes and reunite you with your loved ones in Jannah. May Allah bless you with good health and fill you with the strength to always sail through life with ease, with your head held high and your heart filled with Iman and Tawakkul. Aameen ya Rabb. May Allah bless you. I love you.",
+        },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
     const [letters, setLetters] = useState([]);
